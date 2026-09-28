@@ -1,0 +1,21 @@
+# Climate datasets - do not upload
+*.nc
+*.nc4
+*.zip
+
+# Raw CORDEX folders
+CORDEX_DATA/
+extracted/
+mount_makulu_extracted/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# R temporary files
+.RData
+.RDataTmp
+.Rhistory
+
+# Windows files
+Thumbs.db
+Desktop.ini
